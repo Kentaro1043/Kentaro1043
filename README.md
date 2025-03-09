@@ -1,7 +1,3 @@
-### おはようございます ☀️
-
-けんたろうと申します。
-
 ### リンク
 
 [![GitHub](https://img.shields.io/github/followers/Kentaro1043?style=social)](https://github.com/Kentaro1043)
