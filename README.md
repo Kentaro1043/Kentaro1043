@@ -22,10 +22,6 @@
 
 [![けんたろう's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kentaro1043&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-少なすぎて見えない？
-TODO: 見えるようになったらコメントアウトを外す
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kentaro1043&langs_count=10&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kentaro1043&column=4&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
